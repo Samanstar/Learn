@@ -75,8 +75,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ```bash
 cd $HOME
-git clone https://github.com/pAyDaAr/Iranian_Bot.git
-cd Iranian_Bot
+git clone https://github.com/ferisystem/Tard_Bot.git
+cd Tard_Bot
+chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
 ```
