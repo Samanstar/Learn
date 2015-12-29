@@ -85,7 +85,7 @@ chmod +x launch.sh
 
 **شما باید ادرس زیر رو ادیت کنید**
 
-**https://github.com/pAyDaAr/Iranian_Bot.git**
+**https://github.com/Samanstar/tele-Manager.git**
 
 شما باید به جای
 
