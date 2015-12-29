@@ -76,7 +76,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 cd $HOME
 git clone https://github.com/Samanstar/tele-Manager.git
-cd Tard_Bot
+cd Manager_Bot
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
