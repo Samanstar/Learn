@@ -89,17 +89,17 @@ chmod +x launch.sh
 
 شما باید به جای
 
-PAydaar ای دی اک گیتابتون و
+ Samanstarای دی اک گیتابتون و
  
-به جای iranain_bot
+به جای tele-Manager
  
 اسم فایل خودتون رو وارد کنید
 
 و در این کد
 
-cd Iranian_Bot 
+cd tele-Manager 
 
-به جای iranian_bot
+به جای tele-Manager
 
 اسم فایل خودتون رو وارد کنید و سورس شما کامل میشه
 
